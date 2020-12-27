@@ -4,3 +4,5 @@
 ##### React-query is great tool to manage server data, which manage fetch,cache, revalidating,updating and many more out of box solutions.  
 ##### Tailwind other hand easy to use utility first css framwork, which often describe as api for styling.
 
+###### [Click here to see live demo ](https://starwar-react.netlify.app/).
+
